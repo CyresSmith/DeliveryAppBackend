@@ -1,0 +1,70 @@
+[
+  {
+    "name": "macdak",
+    "email": "macdak@mail.com",
+    "phone": "+380503867151",
+    "web": "https://ukraine.mcdonalds.ua/ukr/mcmode",
+    "address": "вулиця Київська, 77, Житомир, Житомирська область, 10000",
+    "plusCode": "7M8M+CG Житомир, Житомирська область",
+    "hours": [
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" },
+      { "isOpen": true, "from": "07:00", "to": "23:00" }
+    ]
+  },
+  {
+    "name": "klc",
+    "email": "klc@mail.com",
+    "phone": "+380504762771",
+    "web": "http://www.kfc-ukraine.com/",
+    "address": "вулиця Київська, 77, Житомир, Житомирська область, 10001",
+    "plusCode": "7M8P+56 Житомир, Житомирська область",
+    "hours": [
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "07:00", "to": "22:30" },
+      { "isOpen": true, "from": "07:00", "to": "22:30" },
+      { "isOpen": true, "from": "07:00", "to": "22:30" }
+    ]
+  },
+  {
+    "name": "subhay",
+    "email": "subhay@mail.com",
+    "phone": "0800501401",
+    "web": "https://www.metro.ua/store-locator/zhutomur-tz39?utm_source=gmb&utm_medium=organic&utm_content=website&utm_term=zhutomur-tz39",
+    "address": "проспект Незалежності, 55-В, Житомир, Житомирська область, 10000",
+    "plusCode": "7MFF+R7 Житомир, Житомирська область",
+    "hours": [
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "08:00", "to": "22:00" },
+      { "isOpen": true, "from": "07:00", "to": "22:00" },
+      { "isOpen": true, "from": "07:00", "to": "22:00" },
+      { "isOpen": true, "from": "07:00", "to": "22:00" }
+    ]
+  },
+  {
+    "name": "shaurmak",
+    "email": "shaurmak@mail.com",
+    "phone": "0934703546",
+    "web": "",
+    "address": "вулиця Небесної Сотні, 3, Житомир, Житомирська область, 10001",
+    "plusCode": "7M3C+VH Житомир, Житомирська область",
+    "hours": [
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" },
+      { "isOpen": true, "from": "10:00", "to": "20:00" }
+    ]
+  }
+]
