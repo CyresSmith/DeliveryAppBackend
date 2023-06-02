@@ -10,7 +10,7 @@ const order = new Schema(
         _id: {
           type: Schema.Types.ObjectId,
           ref: 'user',
-          required: [true, 'User Id is required to create order'],
+          // required: [true, 'User Id is required to create order'],
         },
         name: {
           type: String,
@@ -76,8 +76,8 @@ order.post('save', handleMongooseError);
  */
 const orderAddSchema = Joi.object({
   client: Joi.object().keys({
-    _id: Joi.string().max(30).required().messages({
-      'any.required': `"User ID" is required`,
+    _id: Joi.string().max(30).messages({
+      // 'any.required': `"User ID" is required`,
       'string.empty': `"User ID" cannot be empty`,
       'string.base': `"User ID" must be string`,
     }),
